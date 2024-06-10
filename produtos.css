@@ -95,9 +95,14 @@ main{
  margin: 0 auto;
 }
 
-
 form{
   margin: 40px 0;
+}
+
+form label, form legend{
+  display: block;
+  font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .input-padrao{
@@ -106,4 +111,3 @@ form{
    padding: 10px 25px;
    width: 50%;
 }
-
